@@ -14,11 +14,13 @@
     "@remix-run/node": "^2.16.5",
     "@remix-run/react": "^2.16.5",
     "@remix-run/serve": "^2.16.5",
+    "bcryptjs": "^3.0.2",
     "isbot": "^4.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@prisma/client": "^6.7.0",
     "@remix-run/dev": "^2.16.5",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
@@ -32,6 +34,7 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "postcss": "^8.4.38",
+    "prisma": "^6.7.0",
     "tailwindcss": "^3.4.4",
     "typescript": "^5.1.6",
     "vite": "^6.0.0",
